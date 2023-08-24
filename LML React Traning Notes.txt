@@ -1,0 +1,29 @@
+
+
+1. To create vs code in javascript react  = npx create-react-app react-app --template typescript
+2. To open = code .
+3. For Routing install = npm install react-router-dom   
+4. Add in index.js = import 'bootstrap/dist/css/bootstrap.css';
+4. Axios = npm i axios  (for making http call)
+5. To install form =  npm install react-hook-form
+6. npm i -g json-server
+7. npx json-server --watch src/components/api/db.json --port 5000  //AddProduct
+8.npx json-server --watch src/components/api/dbtype.json --port 5001   // AddProductType
+9.npx json-server --watch src/components/api/dbcart.json --port 5002
+10.npx json-server --watch src/components/api/bill.json --port 5003
+
+Day -1  07 August 2023
+
+1.WebPack
+2.React is library(external dependendies should have to add) 
+3.angualar is frameworkseverthing is there but react is faster because it creates virtual (Dom = document object model)
+4.Mvc architecture becuase of its view model view controller
+5.Class Components and functional components
+6.Class Components: * Extends class components from React * use render for returning html * complex UI logic
+7.Functional components : * Simple javascript function * return html ui *  no render * use arrow * no component llifecycle method
+
+
+Notes:
+1. UseState
+2. UseEffect
+3. UseParams
