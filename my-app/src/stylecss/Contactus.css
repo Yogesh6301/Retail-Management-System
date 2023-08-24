@@ -1,0 +1,14 @@
+/* Contactus.css */
+
+.contact-title {
+    font-size: 24px;
+    color: rgb(113, 107, 107);
+    margin-bottom: 10px;
+}
+
+.contact-address {
+    font-size: 16px;
+    line-height: 1.6;
+    color: rgb(139, 181, 111);
+    margin-top: 10px;
+}

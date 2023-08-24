@@ -14,8 +14,8 @@ export const Navigations = () => {
   navigate("/")
 }
   return (
-    <div>
-    <h4>RetailManagementSystem</h4>
+    <div className="vertical-nav">
+            <h4 className="text-center mt-3 mb-4">Retail-Store-Management-System</h4>
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
    
      <div className="container-fluid">

@@ -1,0 +1,47 @@
+/* AddProductType.css */
+
+.add-product-type-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #949191; /* Add your desired background color */
+}
+
+.add-product-type-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(124, 119, 119, 0.1);
+    background-color: rgb(197, 194, 194);
+    width: 300px;
+}
+
+.add-product-type-label {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.add-product-type-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.add-product-type-error {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 5px;
+}
+
+.add-product-type-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+}
