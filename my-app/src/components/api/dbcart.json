@@ -1,0 +1,24 @@
+{
+  "dbcart": [
+    {
+      "name": "Wallets",
+      "price": "799",
+      "id": 1
+    },
+    {
+      "name": "Belts",
+      "price": "499",
+      "id": 2
+    },
+    {
+      "name": "Perfumes",
+      "price": "749",
+      "id": 3
+    },
+    {
+      "name": "Trimmer",
+      "price": "899",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "name": "Wallets",
+      "price": "799",
+      "id": 1
+    },
+    {
+      "name": "Belts",
+      "price": "499",
+      "id": 2
+    },
+    {
+      "name": "Perfumes",
+      "price": "749",
+      "id": 3
+    },
+    {
+      "name": "Trimmer",
+      "price": "899",
+      "id": 4
+    },
+    {
+      "name": "Safari Royal trolley 007",
+      "price": "5499",
+      "id": 5
+    },
+    {
+      "name": "Smart Wearbles",
+      "price": "2199",
+      "id": 6
+    },
+    {
+      "name": "Fitness Gadgets",
+      "price": "7999",
+      "id": 7
+    },
+    {
+      "name": "HeadPhones",
+      "price": "5599",
+      "id": 8
+    },
+    {
+      "name": "Speakers",
+      "price": "3599",
+      "id": 9
+    },
+    {
+      "name": "Adidas Sports Shoes",
+      "price": "4999",
+      "id": 10
+    },
+    {
+      "name": "Nike Sandals",
+      "price": "1299",
+      "id": 11
+    }
+  ]
+}

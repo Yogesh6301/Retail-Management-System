@@ -1,0 +1,26 @@
+/* Contactus.css */
+
+.contact-container {
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.contact-title {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.contact-address {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Add a class for colored lines */
+.colored-line {
+    color: #007bff; /* You can use any color you prefer */
+}

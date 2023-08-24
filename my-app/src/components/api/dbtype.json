@@ -1,0 +1,32 @@
+{
+  "productstype": [
+    {
+      "name": "Fashion Accessories",
+      "id": 1
+    },
+    {
+      "name": "Bags & Bagpacks",
+      "id": 2
+    },
+    {
+      "name": "Luggages and Trolleys",
+      "id": 3
+    },
+    {
+      "name": "Gadgests",
+      "id": 4
+    },
+    {
+      "name": "Sports and Active Wear",
+      "id": 5
+    },
+    {
+      "name": "Footware",
+      "id": 6
+    },
+    {
+      "name": "Watches",
+      "id": 7
+    }
+  ]
+}

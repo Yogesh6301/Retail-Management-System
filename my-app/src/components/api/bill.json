@@ -1,0 +1,40 @@
+{
+  "bill": [
+    [
+      {
+        "name": "Mobile",
+        "price": "15999",
+        "id": 1005
+      },
+      {
+        "name": "Specs",
+        "price": "4499",
+        "id": 1008
+      }
+    ],
+    [
+      {
+        "name": "Mobile",
+        "price": "15999",
+        "id": 1005
+      },
+      {
+        "name": "Specs",
+        "price": "4499",
+        "id": 1008
+      }
+    ],
+    [
+      {
+        "name": "Mobile",
+        "price": "15999",
+        "id": 1005
+      },
+      {
+        "name": "Specs",
+        "price": "4499",
+        "id": 1008
+      }
+    ]
+  ]
+}
