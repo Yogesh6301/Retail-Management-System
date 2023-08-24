@@ -1,7 +1,6 @@
 import './App.css';
 import React from 'react';
 import { BrowserRouter as Router,Routes, Route, Link } from 'react-router-dom';
-import { Aboutus } from './components/Aboutus';
 import { Contactus } from './components/Contactus';
 import { Navigations } from './components/Navbar';
 import { AddProduct } from './components/AddProduct';
@@ -38,7 +37,6 @@ function App() {
         <Route path ="/" element={< Login></Login>}></Route>
         {/* <Route path ="/displayProducts" element={<Demo></Demo>}></Route> */}
         <Route path ="/manageproduct" element={<Demo></Demo>}></Route>
-        <Route path ="/aboutus" element ={<Aboutus></Aboutus>}></Route>
         <Route path ="/contactus"element ={<Contactus></Contactus>}></Route>
         {/* <Route path ="/manageproduct" element={<Demo></Demo>}></Route> */}
         <Route path="/addproduct" element={<AddProduct></AddProduct>}></Route>

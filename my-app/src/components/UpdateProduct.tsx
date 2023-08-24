@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import { Product } from '../utility/Product';
-
+import '../stylecss/UpdateProduct.css';
 export const UpdateProduct = () => {
   const { id } = useParams();
   const [product, setProduct] = useState<Product | null>(null);
@@ -44,7 +44,7 @@ export const UpdateProduct = () => {
   }
 
   return (
-    <div>
+    <div className="update-product-container">
       <h6>Product Details for ID: {id}</h6>
       <p>Name: {product.name}</p>
       <p>Price: {product.price}</p>

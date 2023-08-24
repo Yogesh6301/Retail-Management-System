@@ -1,0 +1,32 @@
+/* Navigations.css */
+
+/* Styling for the vertical navigation container */
+.vertical-nav {
+    background-color:rgb(76, 73, 73); /* Background color */
+    color: white; /* Text color */
+    padding: 1rem;
+  }
+  
+  /* Styling for the navigation bar */
+  .navbar {
+    background-color: #48483d; /* Navbar background color */
+    padding: 1rem;
+  }
+  
+  /* Styling for the navigation links */
+  .nav-link {
+    color: white; /* Link text color */
+    margin-right: 15px;
+  }
+  
+  /* Styling for the active navigation link */
+  .nav-link.active {
+    font-weight: bold;
+  }
+  
+  /* Styling for the Logout button */
+  .btn-danger {
+    background-color: #dc3545; /* Button background color */
+    border-color: #dc3545; /* Button border color */
+  }
+  

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom'
 import { Logout } from './Logout'
-
+import '../stylecss/Navbar.css';
 export const Navigations = () => {
   const [isLoggedIn,setIsLoggedIn]=useState(false);
   const navigate=useNavigate();
@@ -37,10 +37,6 @@ export const Navigations = () => {
              <Link className="nav-link active" aria-current="page" to="/">Home</Link>
    
            </li>
-        <li className="nav-item">
-          <Link className="nav-link"  to="/aboutus">Aboutus</Link>
-        </li>
-
         { isLoggedIn?<li className="nav-item">
           <Link className="nav-link"  to="/addproduct">AddProduct</Link>
         </li>:""}
